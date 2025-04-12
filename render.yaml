@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: kahoot-spammer
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python ic3_kahoot_full.py"
+    routes:
+      - type: http
+        path: /
