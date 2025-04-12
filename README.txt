@@ -1,5 +1,5 @@
 
-# ⚠️ IC3 | KAHOOT SPAMMER - VERSION GL!TCH ULTRA ⚠️
+# ⚠️ IC3 | KAHOOT SPAMMER - V3 ⚠️
 
 **Projet fun et créatif, à utiliser de manière responsable.**
 
