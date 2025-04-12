@@ -1,2 +1,3 @@
-selenium
-pygame
+pygame==2.6.1
+chromedriver-autoinstaller
+selenium==4.8.0
