@@ -3,6 +3,7 @@ from tkinter import scrolledtext, messagebox
 import threading
 import time
 import pygame
+from pyvirtualdisplay import Display
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
